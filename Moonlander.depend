@@ -1,0 +1,1030 @@
+# depslib dependency file v1.0
+1604333636 source:c:\egyetem\prog1\nagyházi\moonlander\functions.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\begin_code.h
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\close_code.h
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\program files\codeblocks\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1518375510 c:\program files\codeblocks\mingw\include\sdl2\sdl2_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1561866798 c:\program files\codeblocks\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1605310416 source:c:\egyetem\prog1\nagyházi\moonlander\main.c
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	"header.h"
+	"menu.h"
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	"map.h"
+	"colision.h"
+
+1604332701 c:\egyetem\prog1\nagyházi\moonlander\functions.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+
+1605306144 c:\egyetem\prog1\nagyházi\moonlander\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<stdio.h>
+
+1547322290 c:\program files\codeblocks\mingw\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1605302132 c:\egyetem\prog1\nagyházi\moonlander\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<stdio.h>
+
+1605306708 c:\egyetem\prog1\nagyházi\moonlander\map.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<stdio.h>
+
+1605310449 c:\egyetem\prog1\nagyházi\moonlander\colision.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<stdio.h>
+
+1606473664 source:c:\egyetem\prog1\nagyhazi\moonlander\main.c
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"alapfv.h"
+	"menu.h"
+	"map.h"
+	"colision.h"
+	"end.h"
+	"filekez.h"
+	"struct_color.h"
+
+1605621250 c:\egyetem\prog1\nagyhazi\moonlander\header.h
+
+1606473380 c:\egyetem\prog1\nagyhazi\moonlander\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"struct_color.h"
+	"alapfv.h"
+	"filekez.h"
+
+1606469870 c:\egyetem\prog1\nagyhazi\moonlander\map.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1606473395 c:\egyetem\prog1\nagyhazi\moonlander\colision.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"struct_color.h"
+
+1605271311 c:\egyetem\prog1\nagyhazi\moonlander\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1606473450 c:\egyetem\prog1\nagyhazi\moonlander\end.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"struct_color.h"
+
+1606473389 c:\egyetem\prog1\nagyhazi\moonlander\filekez.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"struct_color.h"
+
+1606473375 c:\egyetem\prog1\nagyhazi\moonlander\alapfv.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"struct_color.h"
+
+1606574243 source:c:\egyetem\prog1\nagyhazi\moonlander\alapfv.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"alapfv.h"
+
+1606469870 source:c:\egyetem\prog1\nagyhazi\moonlander\map.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"map.h"
+
+1606471756 source:c:\egyetem\prog1\nagyhazi\moonlander\colision.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"colision.h"
+
+1606574422 source:c:\egyetem\prog1\nagyhazi\moonlander\end.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"end.h"
+	"menu.h"
+	"alapfv.h"
+
+1606574447 source:c:\egyetem\prog1\nagyhazi\moonlander\filekez.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"filekez.h"
+
+1606473365 source:c:\egyetem\prog1\nagyhazi\moonlander\menu.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"menu.h"
+
+1606471107 c:\egyetem\prog1\nagyhazi\moonlander\szinek.h
+
+1606472476 c:\egyetem\prog1\nagyhazi\moonlander\struct&color.h
+
+1606472833 c:\egyetem\prog1\nagyhazi\moonlander\struct color.h
+
+1606473365 c:\egyetem\prog1\nagyhazi\moonlander\struct_color.h
+
+1606577210 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\alapfv.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"alapfv.h"
+
+1606576308 c:\egyetem\prog1\nagyhazi\moonlander kesz\alapfv.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606473365 c:\egyetem\prog1\nagyhazi\moonlander kesz\struct_color.h
+
+1606471756 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\colision.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"colision.h"
+
+1606576308 c:\egyetem\prog1\nagyhazi\moonlander kesz\colision.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606574422 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\end.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"end.h"
+	"menu.h"
+	"alapfv.h"
+
+1606576308 c:\egyetem\prog1\nagyhazi\moonlander kesz\end.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606576308 c:\egyetem\prog1\nagyhazi\moonlander kesz\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+	"alapfv.h"
+	"filekez.h"
+
+1606576308 c:\egyetem\prog1\nagyhazi\moonlander kesz\filekez.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606736431 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\filekez.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"filekez.h"
+	"alapfv.h"
+
+1606679320 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\main.c
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"debugmalloc.h"
+	"alapfv.h"
+	"menu.h"
+	"map.h"
+	"colision.h"
+	"end.h"
+	"filekez.h"
+	"structs.h"
+
+1606469870 c:\egyetem\prog1\nagyhazi\moonlander kesz\map.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1606656410 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\map.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"map.h"
+
+1606647204 source:c:\egyetem\prog1\nagyhazi\moonlander kesz\menu.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"menu.h"
+
+1606473365 c:\egyetem\prog1\nagyhazi\moonlander kesz\structs.h
+
+1606471107 c:\egyetem\prog1\nagyhazi\moonlander kesz\szinek.h
+
+1605271311 c:\egyetem\prog1\nagyhazi\moonlander kesz\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1606577210 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\alapfv.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"alapfv.h"
+
+1606576308 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\alapfv.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606473365 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\structs.h
+
+1606471756 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\colision.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"colision.h"
+
+1606576308 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\colision.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606574422 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\end.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"end.h"
+	"menu.h"
+	"alapfv.h"
+
+1606576308 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\end.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606576308 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+	"alapfv.h"
+	"filekez.h"
+
+1606576308 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\filekez.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1606736431 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\filekez.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"filekez.h"
+	"alapfv.h"
+
+1606679320 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\main.c
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"debugmalloc.h"
+	"alapfv.h"
+	"menu.h"
+	"map.h"
+	"colision.h"
+	"end.h"
+	"filekez.h"
+	"structs.h"
+
+1605271311 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1606469870 c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\map.h
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1606656410 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\map.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"map.h"
+
+1606647204 source:c:\egyetem\elso felev\prog1\nagyhazi\moonlander kesz\menu.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"menu.h"
+
